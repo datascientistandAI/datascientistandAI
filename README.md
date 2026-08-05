@@ -1,35 +1,21 @@
-- 👋 Hi, I'm Boris Garcial
+### Hi, I'm Boris Garcial 👋
 
--I'm a dedicated Computer Scientist with a passion for building intelligent systems that bridge the gap between technology and financial markets. 
+Computer scientist focused on machine learning systems at the intersection of AI and financial markets — forecasting models, trading decision architectures, and the data infrastructure that feeds them.
 
--👀 My expertise and my interest lies in developing advanced machine learning models, designing custom trading environments, and leveraging data science to drive actionable insights. Whether it's creating predictive algorithms for stock trading, or teaching complex mathematical concepts, I thrive on solving challenging problems.
+**What I work on**
+- Deep learning for time-series forecasting (sequence encoders, quantile/distributional prediction)
+- Reinforcement learning and decision-making systems for trading
+- Market regime modeling and mechanical (rule-based) decision layers built on top of learned forecasts
+- Data engineering: live multi-source ingestion pipelines with point-in-time correctness and automated validation gates
 
-- 🔧 What I Do:
+**Featured project**
 
-Machine Learning & AI: Specializing in neural networks, time series forecasting, and reinforcement learning for financial applications.
-Trading Systems: Developing automated trading strategies and environments using platforms like MetaTrader 5 and Sierra Chart.
-Data Science: Expertise in data manipulation, feature engineering, and building scalable predictive models.
-Software Development: Proficient in Python, C++, and modern development tools, with a focus on clean, efficient code.
+[**film-bpc-macro-trader**](https://github.com/datascientistandAI/film-bpc-macro-trader) — a world-model architecture for FX trading built around quantile rollout prediction and a mechanical, auditable barrier-simulation layer, validated across 279 walk-forward folds on 2019–2026 data. A research/engineering showcase; core logic and weights are kept private as the system is used in active trading.
 
-- 🚀 Recent Projects:
+**Currently learning:** SQL for database design/querying, web data collection, and Tableau for dashboarding.
 
-Stock Price Prediction Model: Built a neural network to forecast stock prices with over 90% accuracy.
-
-RL Trading Agent: Designed and trained an RL agent to manage trades with advanced risk management strategies.
-
-- 📚 Currently Learning:
-
-SQL for database management and querying.
-Data Scraping to collect and analyze web data.
-Tableau for creating interactive visualizations and dashboards.
-
-
-- 💡 Fun Fact:
-I'm not just a coder—I'm also passionate about fitness, and I’ve even earned my abs through dedication to training and nutrition, showing how serious and focus I am when to archive my goals.
-
-
+**Stack:** Python, PyTorch, scikit-learn, LightGBM, DuckDB, C++
 
 <!---
-datascientistandAI/datascientistandAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+datascientistandAI/datascientistandAI is a special repository because its README.md appears on your GitHub profile.
 --->
